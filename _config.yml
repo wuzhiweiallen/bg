@@ -3,17 +3,17 @@ title: Zetsu
 email: zetsu@domain.com
 description: Um lindo tema feito para jekyll e com o <3
 baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+url: "https://wuzhiweiallen.github.io/bg"
 
 author:
   name     : 'Fernando Moreira'
   email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
+  url      : https://wuzhiweiallen.github.io/bg
   facebook : https://www.facebook.com/profile.php?id=100004437458825
   twitter  : http://twitter.com/nandomoreirame
 
 github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
+disqus_shortname: "zhiwei"
 google_analytics: UA-52446115-1
 
 paginate: 2
